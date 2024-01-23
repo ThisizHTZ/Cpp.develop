@@ -21,7 +21,7 @@ std::vector< std::string > Split(const std::string &str, const std::string &splt
 std::string Join(const std::string &str, const std::vector< std::string > &vect) noexcept;
 std::string ExpandTabs(const std::string &str, int tabsize = 4) noexcept;
 int EditDistance(const std::string &left, const std::string &right, bool ignorecase=false) noexcept;
-
+ 
 }
 
 #endif

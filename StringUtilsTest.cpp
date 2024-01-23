@@ -19,12 +19,12 @@ TEST(StringUtilsTest, Upper){
 TEST(StringUtilsTest, Lower){
     EXPECT_EQ(StringUtils::Lower("HELLO"), "hello");
 }
-
+  
 TEST(StringUtilsTest, LStrip){
     EXPECT_EQ(StringUtils::LStrip("   Hello"), "Hello");
     EXPECT_EQ(StringUtils::LStrip("\t\n Hello"), "Hello");
 }
-
+  
 TEST(StringUtilsTest, RStrip){
     EXPECT_EQ(StringUtils::RStrip("Hello   "), "Hello");
     EXPECT_EQ(StringUtils::RStrip("Hello\t\n "), "Hello");

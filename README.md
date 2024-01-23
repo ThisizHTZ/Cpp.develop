@@ -12,7 +12,7 @@ The project fails to function properly in the function of ExpandTabs and EditDis
 ## Code References
 * [Different methods to initialize variables](https://stackoverflow.com/questions/2218254/variable-initialization-in-c)(https://blog.csdn.net/qq_51372098/article/details/113361454)
 * [Some other link](https://www.geeksforgeeks.org/substring-in-cpp/)(https://youtu.be/We3YDTzNXEk)(https://blog.csdn.net/XJX_ai_dai/article/details/121020096)(https://blog.csdn.net/weixin_39445116/article/details/116767026)(https://www.bilibili.com/video/BV1oD4y1h7S3/?spm_id_from=333.337.search-card.all.click&vd_source=a501ff7fe517fa76de783ccf31a9d30a)(https://code.visualstudio.com/docs/sourcecontrol/github)
-
+ 
 ## Generative AI Use
 I used ChatGPT3.5 for Prompt 1 to Prompt 7, and ask for change my code from Change 1 to Change 4
 

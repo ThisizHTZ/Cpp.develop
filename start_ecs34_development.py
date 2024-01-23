@@ -18,7 +18,7 @@ class DockerManager:
     @staticmethod
     def script_directory() -> str:
         return str(os.path.dirname(os.path.realpath(__file__)))
-
+ 
     @staticmethod
     def split_columns(line : str) -> List[str]:
         new_line = line.strip().replace('  ','\t').replace('\t\t','\t')

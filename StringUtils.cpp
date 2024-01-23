@@ -17,6 +17,8 @@ std::string Capitalize(const std::string &str) noexcept{
     return result;
 }
 
+
+
 std::string Upper(const std::string &str) noexcept{
     std::string result = str;
     for (char &ch : result) { // Using for loop, capitalize every letter in the str.
