@@ -1,6 +1,6 @@
 # Project 1 README
 
-Student 1: Tianzuo Hu (920473160)
+Student 1: TZ
 Before the coding, I seached online to build the environment and the coding part.
 
 ## Project Status
